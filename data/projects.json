@@ -1,0 +1,20 @@
+[
+  {
+    "name": "TermiQue Site",
+    "description": "我的综合型个人网站，包含文章、项目、工具和时间线。",
+    "techStack": ["Next.js", "TypeScript", "Tailwind CSS"],
+    "github": "https://github.com/yourname/termique-site",
+    "demo": "https://termique.top",
+    "image": "/images/project-site.png",
+    "featured": true
+  },
+  {
+    "name": "FastAPI Demo",
+    "description": "基于 FastAPI 的接口服务示例，包含鉴权、日志和文档。",
+    "techStack": ["FastAPI", "Python", "Uvicorn"],
+    "github": "https://github.com/yourname/fastapi-demo",
+    "demo": "",
+    "image": "/images/project-fastapi.png",
+    "featured": true
+  }
+]
